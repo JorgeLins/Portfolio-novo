@@ -8,6 +8,7 @@ width: auto;
     align-items: center;
     align-content: center;
     border: 3px solid #F3DBC7;
+    border-color: #F3DBC7;
     border-radius: 120px;
     font-family: 'Bebas Neue';
     font-style: normal;

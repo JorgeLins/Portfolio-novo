@@ -76,6 +76,7 @@ color: #FFFFFF;
 
 export const Dashed = styled.div`
 height: 100px;
-    border-left: 7px dashed #F3DBC7;
+    border-left: 7px dashed;
+    border-left-color: #F3DBC7;
     margin-left: 4.5rem;
 `
